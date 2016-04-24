@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='osx' display-mode='rendered'>
+    <pages>
+        <page name='00 Intro'/>
+        <page name='01 Functors'/>
+        <page name='02 Applicative Functors'/>
+        <page name='03 Monads'/>
+    </pages>
+</playground>

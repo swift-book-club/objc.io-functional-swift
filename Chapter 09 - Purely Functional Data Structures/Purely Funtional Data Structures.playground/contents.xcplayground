@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='osx' display-mode='rendered'>
+    <pages>
+        <page name='SetLike'/>
+        <page name='SetLike Using An Array'/>
+        <page name='Testing SetLike Array'/>
+        <page name='SetLike Using Binary Tree'/>
+        <page name='Binary Set in Action'/>
+        <page name='Autocomplete'/>
+        <page name='Autocomplete with an Array'/>
+        <page name='Testing Autocomplete Array'/>
+        <page name='Autocomplete Using Tries'/>
+        <page name='Testing Autocomplete Tries'/>
+    </pages>
+</playground>
